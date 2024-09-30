@@ -28,3 +28,19 @@ Create a robust solution for the quest completion system that handles race condi
 - **Code Quality**: Cleanliness, readability, and inline documentation.
 - **Modularity and Scalability**: Effective use of modular design patterns to enhance code scalability and maintainability.
 - **Testing**: Comprehensive coverage and quality of unit tests, especially for race conditions.
+
+## Submission Guide
+
+Please submit your solution using one of the following methods:
+
+1. CodeSandbox.io (Recommended):
+
+   - Fork the provided repository in CodeSandbox.
+   - Complete your implementation in the CodeSandbox environment.
+   - Provide the link to your CodeSandbox project.
+
+2. GitHub:
+
+   - Fork the provided repository on GitHub.
+   - Complete your implementation and push your changes to your forked repository.
+   - Provide the link to your GitHub repository.
