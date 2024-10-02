@@ -11,6 +11,7 @@ Create a robust solution for the quest completion system that handles race condi
 3. A mechanism to ensure atomicity and prevent race conditions.
 4. Proper error handling and logging.
 5. Unit tests for your implementation, including a test for race conditions.
+6. Inline documentation to explain complex logic, key design decisions, and algorithmic approaches, where appropriate.
 
 ## Requirements
 
